@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div alligh = center>
+<div allign = center>
   <h3>Contact Me </h3>
 </div>
 <a href="https://www.instagram.com/gyud_0n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
