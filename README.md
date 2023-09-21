@@ -1,7 +1,12 @@
 # JUNG DONG GYU 😎
 
 ![DongGyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdg824&show_icons=true&theme=radical)
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdg824)](https://solved.ac/jdg824)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdg824)](https://solved.ac/jdg824)
+# 🛠︎Skills
+### Stack
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <!--
 **jdg824/jdg824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
