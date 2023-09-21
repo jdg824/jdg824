@@ -1,4 +1,4 @@
-# JUNG DONG GYU 😎
+# Welcome~! 😎
 
 ![DongGyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdg824&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdg824)](https://solved.ac/jdg824)
