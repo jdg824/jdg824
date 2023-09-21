@@ -2,11 +2,21 @@
 
 ![DongGyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdg824&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdg824)](https://solved.ac/jdg824)
-# 🛠︎Skills
+# 🛠︎ Skills
 ### Stack
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+### Collaboration Tool
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+
+### IDE
+![Visual Studio](https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 <!--
 **jdg824/jdg824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
