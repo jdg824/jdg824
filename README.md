@@ -1,7 +1,13 @@
 # Welcome~! 😎
-I'm interested in ADAS and Embedded Programing. I'm making a lot of effor to develop Car Software. 🚗
+I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effor to develop Car Software. 🚗
+
+
+* * *
 
 ![DongGyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdg824&show_icons=true&theme=radical)
+
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jdg824)](https://solved.ac/jdg824)
 # 🛠︎ Skills
 ### Stack
