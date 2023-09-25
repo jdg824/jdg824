@@ -3,7 +3,7 @@ I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effo
 
 
 
-![DongGyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdg824&show_icons=true&theme=radical)
+![DongGyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jdg824&show_icons=true&theme=graywhite)
 
 
 
