@@ -1,5 +1,5 @@
 # Welcome~! 😎
-I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effor to develop Car Software. 🚗
+I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effort to develop Car Software. 🚗
 
 
 
