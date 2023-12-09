@@ -27,6 +27,7 @@ I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effo
 
 ### Tools
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?&style=for-the-badge&logo=Arduino&logoColor=white)
 <!--
 **jdg824/jdg824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
