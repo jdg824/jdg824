@@ -24,6 +24,9 @@ I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effo
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=for-the-badge&logo=Google%20Colab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### Tools
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 <!--
 **jdg824/jdg824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
