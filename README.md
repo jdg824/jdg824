@@ -16,7 +16,7 @@ I'm interested in __ADAS__ and __Embedded Programing__. I'm making a lot of effo
 
 ### Collaboration Tool
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-<a href="https://www.notion.so/Donggyu-Jung-688b6b5874d24f1fa0b085c643306824?pvs=4" target="_blank"><img src = "https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+<a href="https://canary-chanter-6bd.notion.site/Donggyu-Jung-6b88f52edd6f4bd2a48f50b275f33430?pvs=4" target="_blank"><img src = "https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 
 ### IDE
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
